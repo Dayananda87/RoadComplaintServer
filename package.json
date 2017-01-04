@@ -1,0 +1,15 @@
+{
+  "name": "roadcomplaintserver",
+  "version": "1.0.0",
+  "description": "server for road complaint apps",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js"
+  },
+  "author": "Dayanand",
+  "license": "ISC"
+}
